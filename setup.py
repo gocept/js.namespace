@@ -28,6 +28,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'fanstatic',
+        'js.jquery',
         'setuptools',
         ],
     entry_points={
