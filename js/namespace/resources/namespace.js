@@ -20,3 +20,5 @@ var declare = function(namespace) {
 declare('namespace');
 namespace.declare = declare;
 namespace.isUndefinedOrNull = isUndefinedOrNull;
+
+})(jQuery);
